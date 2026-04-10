@@ -9,6 +9,16 @@ This project will analyze data extrapolated from the LMPD Crime database. It sho
    - Pandas
    - Numpy
    - Seaborn
+   - SQLite
+
+# Data Sources
+
+
+# Questions
+1. What were the top 5 specific crimes reported the most frequently?
+2. Which zip codes reported said crimes the most often?
+3. What were the top 5 zip codes with the highest number of LMPD responses to 311 requests?
+4. Is there a correlation between 311 requests and crimes reported?
 
 # Output
 The visualizations show which crimes were reported with the greatest frequency, which zip codes reportedly had the most crime, which crimes were reported with the least frequency, and which zip codes had the least crime.
