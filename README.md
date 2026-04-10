@@ -12,8 +12,8 @@ This project will analyze data extrapolated from the LMPD Crime database. It sho
    - SQLite
 
 # Data Sources
-
-
+LMPD crime data - https://data.louisvilleky.gov/datasets/louisville-metro-ky-crime-data-2025/explore
+Metro 311 service request data - https://louisville-metro-opendata-lojic.hub.arcgis.com/datasets/LOJIC::louisville-metro-ky-metro-311-service-request-2025/about
 # Questions
 1. What were the top 5 specific crimes reported the most frequently?
 2. Which zip codes reported said crimes the most often?
